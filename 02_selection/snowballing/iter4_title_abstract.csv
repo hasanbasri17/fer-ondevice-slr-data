@@ -1,0 +1,6 @@
+ID,DOI,Year,Source,Title,Direction,Seed_study,Decision
+V001,10.1109/access.2025.3560362,2025,IEEE Access,A Novel Partitioned Random Forest Method-Based Facial Emotion Recognition,maju,U017,"IC3 ketat: Random Forest yang diklaim efisien, tanpa uji di perangkat target"
+V002,10.64252/nghvjq18,2025,International Journal of Environmental Sciences,Facial Emotion Recognition-Based Music System Using Convolutional Neural Networks,maju,U017,"IC3 ketat: sistem musik berbasis FER, tanpa uji di perangkat target"
+V003,10.7717/peerj-cs.3892,2026,PeerJ Computer Science,Real-time human suspicious activity detection system with deep learning for improved security monitoring from live video streaming,maju,U017,"EC3: deteksi aktivitas mencurigakan, bukan FER"
+V004,10.1007/s11042-024-19392-5,2024,Multimedia Tools and Applications,Revolutionizing online education: Advanced facial expression recognition for real-time student progress tracking via deep learning model,mundur,U035,"IC3 ketat: platform pendidikan (ResNet50), tanpa uji di perangkat target"
+V005,10.1109/access.2022.3193941,2022,IEEE Access,Digital Twin Model: A Real-Time Emotion Recognition System for Personalized Healthcare,mundur,U035,"IC3 ketat: digital twin dengan webcam di PC, tanpa perangkat target"
